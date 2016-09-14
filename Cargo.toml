@@ -1,0 +1,9 @@
+[package]
+name = "sso"
+version = "0.0.1"
+authors = ["robin <r@nosql.asia>"]
+
+[dependencies]
+nickel = "*"
+rust-crypto = "^0.2"
+url = "*"
